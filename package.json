@@ -1,0 +1,11 @@
+{
+  "name": "conwaygamesoflife",
+  "version": "1.0.0",
+  "description": "Javascript implementation of John Conway's Game of Life - a cellular automaton.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nazanin Delam",
+  "license": "ISC"
+}
