@@ -43,7 +43,6 @@ var liveCount = 0;
             if (theGrid[j][k] === 1) {
                 ctx.fillRect(j, k, 1, 1);
                 liveCount++;
-
             }
         }
     }
